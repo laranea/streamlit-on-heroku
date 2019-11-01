@@ -1,7 +1,5 @@
-itertools
 matplotlib
 numpy
 pandas
-requests
 streamlit
 sklearn
